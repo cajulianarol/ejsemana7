@@ -118,7 +118,7 @@ margin-bottom: 15px;
     border-radius: 4px;
     transition: all 400ms ease;
 }
-.card .contenido a :hoover{
+.card .contenido a :hover{
     background: rgb(99, 91, 91);
     color: bisque;
 }
@@ -145,3 +145,28 @@ footer{
     text-align: center;
 }
 
+.redes{
+    margin-top: 50%;
+    text-align: center;
+    flex: auto;
+    padding: 50px;    
+}
+.red{
+    margin-top: 10%;
+    text-align: center;
+ margin: 100px;
+
+}
+.d-flex{
+    font-weight: 400;
+    margin-bottom: 15px;
+    margin: auto;
+ margin: 100px;
+}
+
+container-fluid{
+    margin-top: 10%;
+    text-align: center;
+ margin: 100px;
+
+}
