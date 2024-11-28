@@ -9,13 +9,8 @@ body, html{
    align-items: center;
 }
 
-div{margin: 15px }
-h3{
-    margin: auto;
-    padding: 0;
-    justify-content: center;
-   align-items: center;
-}
+
+
 
 nav ul{
     padding: 0;
@@ -133,29 +128,11 @@ h2{
 
 }
 
-input[type="text"], input[type="email"], select {
-    padding: 5px;
-    margin: 5px 0;
-    width: 20%;
-    margin:auto;
-}
-
-
-
-button {
-    
-    background-color: #724a40;
-    color: rgb(17, 17, 17);
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-  
-}
-
-
-button:hover {
-    background-color: #ecf0b4;
-}
+.centered-heading {
+    margin-top: 10%;
+    text-align: center;
+ margin: 100px;
+  }
 
 
 footer{
