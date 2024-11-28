@@ -9,6 +9,14 @@ body, html{
    align-items: center;
 }
 
+div{margin: 15px }
+h3{
+    margin: auto;
+    padding: 0;
+    justify-content: center;
+   align-items: center;
+}
+
 nav ul{
     padding: 0;
     list-style: none;
